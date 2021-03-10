@@ -7,7 +7,6 @@ export function Counter() {
     setCounter(counter + 1);
   }
 
-
   return (
     <div>
       <h2>{counter}</h2>
